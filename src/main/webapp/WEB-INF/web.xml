@@ -35,7 +35,6 @@
     <url-pattern>/action/*</url-pattern>
     <url-pattern>/</url-pattern>
   </filter-mapping>
-
   <filter>
     <filter-name>jaxrsEntryPoint</filter-name>
     <filter-class>com.nablarch.example.app.web.filter.RestfulWebFrontController</filter-class>

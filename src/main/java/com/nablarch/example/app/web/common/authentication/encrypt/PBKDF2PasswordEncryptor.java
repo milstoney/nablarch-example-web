@@ -65,7 +65,7 @@ public class PBKDF2PasswordEncryptor implements PasswordEncryptor {
     });
 
     /**
-     * PBKDF2で、パスワードを暗号化し、Base64エンコードを行って返却する。
+     * PBKDF2で、パスワードSecretKeyFactoryを暗号化し、Base64エンコードを行って返却する。
      * <p/>
      * {@code saltSeed}, {@code password} のいずれかが空文字列の場合には、空文字列を返却し、
      * いずれかが {@code null} の場合には {@link IllegalArgumentException} が発生する。

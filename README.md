@@ -49,6 +49,11 @@ Gitを使用しない場合、最新のタグからzipをダウンロードし�
     [INFO] BUILD SUCCESS
     [INFO] ------------------------------------------------------------------------
     (中略)
+    
+具体的に以下をご参照ください。
+https://nablarch.github.io/docs/5u8/doc/application_framework/application_framework/blank_project/CustomizeDB.html#id2
+https://nablarch.github.io/docs/5u8/doc/application_framework/application_framework/blank_project/addin_gsp.html
+
 
 #### 3.2. アプリケーションのビルド
 
